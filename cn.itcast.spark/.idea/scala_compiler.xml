@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="Maven 1" modules="spark-leaning-day03,spark-learning-day04,spark-learning-day07,spark-learning-day08,spark-leaning-day01,spark-learning-day05,spark-leaning-day02,spark-learning-day06,spark-learning-day03" />
+  </component>
+</project>

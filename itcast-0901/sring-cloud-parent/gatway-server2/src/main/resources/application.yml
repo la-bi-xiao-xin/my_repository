@@ -1,0 +1,21 @@
+server:
+  port: 10010
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:8761/eureka
+
+spring:
+  application:
+    name: gateway-server
+  cloud:
+    gateway:
+      routes:
+      # id唯一标志
+      - id: consumer-service-route
+        # 路由服务地址
+        uri: http://127.0.0.1:8081
+        # 断言
+        predicates:
+        - Path=/**

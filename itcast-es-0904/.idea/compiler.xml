@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-server" />
+        <module name="gateway-server" />
+        <module name="itcasr-es-parent" />
+        <module name="item-consumer" />
+        <module name="spring-es-01" />
+        <module name="spring-es-02" />
+        <module name="spring-es-dataimport" />
+        <module name="spring-es-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.8" />
+      <module name="gateway-server" target="1.8" />
+      <module name="getaway-service" target="1.8" />
+      <module name="itcasr-es-parent" target="1.5" />
+      <module name="item-consumer" target="1.8" />
+      <module name="spring-es-01" target="1.8" />
+      <module name="spring-es-02" target="1.8" />
+      <module name="spring-es-consumer" target="1.8" />
+      <module name="spring-es-dataimport" target="1.8" />
+      <module name="spring-es-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

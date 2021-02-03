@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: spring-es-01
+  data:
+    elasticsearch:
+      cluster-name: elasticsearch # 集群名称 固定的
+      cluster-nodes: 127.0.0.1:9300 # 节点信息 tcp端口号

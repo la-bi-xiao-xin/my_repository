@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-server" />
+        <module name="mybatis-01-xml" />
+        <module name="mybatis-02-duobiao" />
+        <module name="mybatis-02-duobiao02" />
+        <module name="mybatis-03-annotation02" />
+        <module name="mybatis-04-annotation-duobiao" />
+        <module name="mybatis-04-annotation-duobiao02" />
+        <module name="spring-01-xml" />
+        <module name="spring-01-xml02" />
+        <module name="spring-01-xml03" />
+        <module name="spring-02-xmlannotation" />
+        <module name="spring-02-xmlannotation02" />
+        <module name="spring-02-xmlannotation03" />
+        <module name="spring-03-annotation" />
+        <module name="spring-03-annotation02" />
+        <module name="spring-03-annotation03" />
+        <module name="spring-04-mybatis-xmlAndAnnotation" />
+        <module name="spring-boot-02" />
+        <module name="spring-boot-022" />
+        <module name="spring-boot-03" />
+        <module name="spring-boot-04" />
+        <module name="spring-boot-05-springmvc" />
+        <module name="spring-boot-05-springmvc02" />
+        <module name="spring-boot-parent" />
+        <module name="spring-cloud-parent" />
+        <module name="spring-datajpa-08" />
+        <module name="spring-datajpa-082" />
+        <module name="spring-datajpa-083" />
+        <module name="spring-datajpa-084" />
+        <module name="spring-mybatis-06" />
+        <module name="spring-mybatis-062" />
+        <module name="spring-mybatis-064" />
+        <module name="spring-template-07" />
+        <module name="spring-template-072" />
+        <module name="spring-template-073" />
+        <module name="spring-template-074" />
+        <module name="sring-04-mybatis-xmlAndAnnotation" />
+        <module name="srping-mybatis-063" />
+        <module name="user-consumer" />
+        <module name="user-provider" />
+      </profile>
+      <profile name="Annotation profile for mybatis-03-annotation" enabled="true">
+        <sourceOutputDir name="../mybatis-04-annotation-duobiao/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../mybatis-04-annotation-duobiao/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-03-annotation" />
+      </profile>
+      <profile name="Annotation profile for itcast-parent" enabled="true">
+        <sourceOutputDir name="../mybatis-01-xml/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../mybatis-01-xml/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mybatis-01-xml02" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.8" />
+      <module name="itcast-parent" target="1.8" />
+      <module name="mybatis-01-xml" target="1.8" />
+      <module name="mybatis-01-xml02" target="1.8" />
+      <module name="mybatis-02-duobiao" target="1.8" />
+      <module name="mybatis-02-duobiao02" target="1.8" />
+      <module name="mybatis-03-annotation" target="1.8" />
+      <module name="mybatis-03-annotation02" target="1.8" />
+      <module name="mybatis-04-annotation-duobiao" target="1.8" />
+      <module name="mybatis-04-annotation-duobiao02" target="1.8" />
+      <module name="spring-01-xml" target="1.8" />
+      <module name="spring-01-xml02" target="1.8" />
+      <module name="spring-01-xml03" target="1.8" />
+      <module name="spring-02-xmlannotation" target="1.8" />
+      <module name="spring-02-xmlannotation02" target="1.8" />
+      <module name="spring-02-xmlannotation03" target="1.8" />
+      <module name="spring-03-annotation" target="1.8" />
+      <module name="spring-03-annotation02" target="1.8" />
+      <module name="spring-03-annotation03" target="1.8" />
+      <module name="spring-04-mybatis-xmlAndAnnotation" target="1.8" />
+      <module name="spring-boot-02" target="1.8" />
+      <module name="spring-boot-022" target="1.8" />
+      <module name="spring-boot-0222" target="1.8" />
+      <module name="spring-boot-03" target="1.8" />
+      <module name="spring-boot-04" target="1.8" />
+      <module name="spring-boot-05-springmvc" target="1.8" />
+      <module name="spring-boot-05-springmvc02" target="1.8" />
+      <module name="spring-boot-parent" target="1.5" />
+      <module name="spring-cloud-parent" target="1.5" />
+      <module name="spring-datajpa-08" target="1.8" />
+      <module name="spring-datajpa-082" target="1.8" />
+      <module name="spring-datajpa-083" target="1.8" />
+      <module name="spring-datajpa-084" target="1.8" />
+      <module name="spring-mybatis-06" target="1.8" />
+      <module name="spring-mybatis-062" target="1.8" />
+      <module name="spring-mybatis-064" target="1.8" />
+      <module name="spring-template-07" target="1.8" />
+      <module name="spring-template-072" target="1.8" />
+      <module name="spring-template-073" target="1.8" />
+      <module name="spring-template-074" target="1.8" />
+      <module name="sring-04-mybatis-xmlAndAnnotation" target="1.8" />
+      <module name="srping-mybatis-063" target="1.8" />
+      <module name="user-consumer" target="1.8" />
+      <module name="user-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

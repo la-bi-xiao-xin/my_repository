@@ -1,0 +1,22 @@
+---
+server:
+  port: 8088
+name: zhangsan
+spring:
+  profiles: dev
+---
+server:
+  port: 8088
+name: lisi
+spring:
+  profiles: prod
+---
+  server:
+    port: 8088
+  name: wangwu
+  spring:
+    profiles: test
+---
+spring:
+     profiles:
+       active: prod

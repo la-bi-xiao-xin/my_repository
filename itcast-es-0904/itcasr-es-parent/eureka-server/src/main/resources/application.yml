@@ -1,0 +1,10 @@
+#设置端口号
+server:
+  port: 10086
+#设置eureka 客户端 确定本身是否要注册到列表中
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+    fetch-registry: false
+    register-with-eureka: false

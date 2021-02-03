@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/sring-cloud-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/sring-cloud-parent/user-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/sring-cloud-parent/user-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/sring-cloud-parent/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sring-cloud-parent/spring-boot-01/pom.xml" />
+        <option value="$PROJECT_DIR$/sring-cloud-parent/user-consumer-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/sring-cloud-parent/gatway-server/pom.xml" />
+        <option value="$PROJECT_DIR$/sring-cloud-parent/user-condumer-feign2/pom.xml" />
+        <option value="$PROJECT_DIR$/sring-cloud-parent/user-consumer-feign3/pom.xml" />
+        <option value="$PROJECT_DIR$/sring-cloud-parent/gatway-server2/pom.xml" />
+        <option value="$PROJECT_DIR$/sring-cloud-parent/gateway-server3/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

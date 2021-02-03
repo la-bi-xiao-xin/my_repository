@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sring-cloud-parent/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/sring-cloud-parent/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sring-cloud-parent/gateway-server3/gateway-server3.iml" filepath="$PROJECT_DIR$/sring-cloud-parent/gateway-server3/gateway-server3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sring-cloud-parent/gatway-server/gatway-server.iml" filepath="$PROJECT_DIR$/sring-cloud-parent/gatway-server/gatway-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sring-cloud-parent/gatway-server2/gatway-server2.iml" filepath="$PROJECT_DIR$/sring-cloud-parent/gatway-server2/gatway-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sring-cloud-parent/sring-cloud-parent.iml" filepath="$PROJECT_DIR$/sring-cloud-parent/sring-cloud-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sring-cloud-parent/user-condumer-feign2/user-condumer-feign2.iml" filepath="$PROJECT_DIR$/sring-cloud-parent/user-condumer-feign2/user-condumer-feign2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sring-cloud-parent/user-consumer/user-consumer.iml" filepath="$PROJECT_DIR$/sring-cloud-parent/user-consumer/user-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sring-cloud-parent/user-consumer-feign/user-consumer-feign.iml" filepath="$PROJECT_DIR$/sring-cloud-parent/user-consumer-feign/user-consumer-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sring-cloud-parent/user-consumer-feign3/user-consumer-feign3.iml" filepath="$PROJECT_DIR$/sring-cloud-parent/user-consumer-feign3/user-consumer-feign3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sring-cloud-parent/user-provider/user-provider.iml" filepath="$PROJECT_DIR$/sring-cloud-parent/user-provider/user-provider.iml" />
+    </modules>
+  </component>
+</project>

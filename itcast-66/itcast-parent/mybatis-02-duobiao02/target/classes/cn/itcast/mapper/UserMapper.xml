@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--namespace 给当前配置文件起一个唯一的别名-->
+<mapper namespace="cn.itcast.mapper.UserMapper">
+    <!--1 定义user表map-->
+    <resultMap id="userMap" type="cn.itcast.pojo.User" autoMapping="true">
+        <!--当前表的主键不能省略-->
+        <!--
+            property 指java对象的属性
+            column 指数据库表的列名
+        -->
+        <id property="id" column="id"/>
+        <!--因为有了 autoMapping="true" 所以当属性名和数据库表的列名一致时,就可以省略不写了-->
+        <!--<result property="username" column="username"/>-->
+    </resultMap>
+
+    <!--2 定义userinfo表map-->
+    <resultMap id="userinfoMap" type="cn.itcast.pojo.Userinfo" autoMapping="true">
+        <id property="id" column="id"/>
+    </resultMap>
+
+    <!--3 整合第一步和第二步-->
+    <resultMap id="userWithInfoMap" type="cn.itcast.pojo.User" extends="userMap" autoMapping="true">
+        <!--配置一对一-->
+        <association property="userinfo" resultMap="userinfoMap" autoMapping="true"/>
+    </resultMap>
+
+
+
+    <!--根据用户编号 查询用户信息和用户扩展信息-->
+    <!--resultMap 和 resultType 这两个只能用一个, 不能同时使用-->
+    <select id="findUserWithInfoById" resultMap="userWithInfoMap">
+        select u.*,ui.* from user u inner join user_info ui on u.id=ui.id
+        where u.id = #{id}
+    </select>
+
+
+
+    <!--4 定义订单map-->
+    <resultMap id="orderMap" type="cn.itcast.pojo.Orderform" autoMapping="true">
+        <!--关联设置-->
+        <id property="oid" column="oid"/>
+        <!--解决属性名和列名不一致的问题-->
+        <result property="userid" column="user_id"/>
+        <result property="createtime" column="create_time"/>
+    </resultMap>
+
+    <!--5 建立用户map和订单map的关系-->
+    <resultMap id="userWithOrdersMap" type="cn.itcast.pojo.User" extends="userMap" autoMapping="true">
+        <!--定义 一对多的关系-->
+        <collection property="orders" resultMap="orderMap" autoMapping="true"/>
+    </resultMap>
+
+
+    <!--根据用户编号 查询用户信息和用户的订单信息-->
+    <select id="findUserWithOrdersById" resultMap="userWithOrdersMap">
+        select u.*, o.*
+        from user u inner join order_form o on u.id=o.user_id
+        where u.id = #{id}
+    </select>
+</mapper>

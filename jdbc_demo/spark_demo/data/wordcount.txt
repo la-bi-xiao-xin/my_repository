@@ -1,0 +1,10 @@
+hadoop
+java
+hbase
+hive
+spark
+shell
+phoenix
+MI
+NI
+HAO

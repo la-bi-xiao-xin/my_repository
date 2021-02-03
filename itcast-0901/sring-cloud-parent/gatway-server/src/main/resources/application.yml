@@ -1,0 +1,23 @@
+server:
+  port: 10010
+spring:
+  application:
+    name: gatway-server
+  cloud:
+    gateway:
+      routes:
+      # id唯一标志
+      - id: consumer-service-route
+        # 静态路由服务地址
+        #uri: http://127.0.0.1:8081
+        #动态路由设置
+        uri: lb://USER-CONSUMER-FEIGN
+        # 断言
+        predicates:
+        - Path=/**
+
+
+eureka:
+  client:
+    service-url:
+      default: http://eureka1:8761/eureka

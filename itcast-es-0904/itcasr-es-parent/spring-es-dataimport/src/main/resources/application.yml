@@ -1,0 +1,18 @@
+
+spring:
+  #数库连接配置
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/jd_item?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+    username: root
+    password: 123456
+  #es连接配置
+  data:
+    elasticsearch:
+      #节点名字，默认elasticsearch
+      cluster-name: elasticsearch
+      #节点地址，多个节点用逗号隔开
+      cluster-nodes: 127.0.0.1:9300
+
+mybatis:
+  mapper-locations: classpath*:/mapper/*.xml

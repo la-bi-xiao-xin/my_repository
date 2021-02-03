@@ -1,0 +1,19 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: item-consumer
+
+eureka:
+  client:
+    service-url:
+      defaultZone: http://localhost:10086/eureka
+
+# 请求压缩及响应压缩
+feign:
+  compression:
+    request:
+      enabled: true
+    response:
+      enabled: true

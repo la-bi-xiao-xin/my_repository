@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/ThreadPool_demo1/ThreadPool_demo1.iml" filepath="$PROJECT_DIR$/springboot_parent/ThreadPool_demo1/ThreadPool_demo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/kafka_spring_boot/kafka_spring_boot.iml" filepath="$PROJECT_DIR$/springboot_parent/kafka_spring_boot/kafka_spring_boot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/pool/pool.iml" filepath="$PROJECT_DIR$/springboot_parent/pool/pool.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot01/springboot01.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot01/springboot01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot02/springboot02.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot02/springboot02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_mybatis_mvc/springboot_mybatis_mvc.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_mybatis_mvc/springboot_mybatis_mvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springboot_parent/springboot_parent.iml" filepath="$PROJECT_DIR$/springboot_parent/springboot_parent.iml" />
+    </modules>
+  </component>
+</project>

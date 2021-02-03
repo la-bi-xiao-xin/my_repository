@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/itcast-parent" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/mybatis-01-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/mybatis-01-xml02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/mybatis-02-duobiao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/mybatis-02-duobiao02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/mybatis-03-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/mybatis-03-annotation02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/mybatis-04-annotation-duobiao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/mybatis-04-annotation-duobiao02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/spring-01-xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/spring-01-xml02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/spring-01-xml03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/spring-02-xmlannotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/spring-02-xmlannotation02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/spring-02-xmlannotation03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/spring-03-annotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/spring-03-annotation02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/spring-03-annotation03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/itcast-parent/sring-04-mybatis-xmlAndAnnotation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-022" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-03" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-04" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-05-springmvc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-05-springmvc02" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-08" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-082" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-mybatis-06" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-mybatis-062" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-mybatis-064" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-template-07" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-template-072" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-template-073" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/spring-template-074" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-parent/srping-mybatis-063" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-parent/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-parent/user-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-cloud-parent/user-provider" charset="UTF-8" />
+  </component>
+</project>

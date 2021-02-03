@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--将dao实现类交给spring管理-->
+    <!--
+        bean 将哪个类交给spirng管理
+            class属性 指定项目的某个类, 前提: 这个类必须可以new
+            id属性 给spring new出的对象起一个唯一的别名, 可以省略不写, 如果不写id就是当前类名但是第一个字母小写
+    -->
+    <bean id="accountDao" class="cn.itcast.dao.impl.AccountDaoImpl">
+        <!--设置属性-->
+        <property name="bankName" value="农业银行"/>
+    </bean>
+
+    <!--将service实现类交给Spring管理-->
+    <bean id="accountService" class="cn.itcast.service.impl.AccountServiveImpl">
+        <!--ref 设置对象 英文翻译为引用这个单词 取了前三个字母-->
+        <!--name="accountDao"的accountDao是AccountServiveImpl类中成员属性;ref="accountDao"中的accountDao是applicationContext.xml中的accountDao-->
+        <property name="accountDao" ref="accountDao"/>
+
+    </bean>
+</beans>

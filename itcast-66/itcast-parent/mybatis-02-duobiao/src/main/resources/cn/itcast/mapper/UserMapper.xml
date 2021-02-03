@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--namespace 给当前配置文件起一个唯一的别名-->
+<mapper namespace="cn.itcast.mapper.UserMapper">
+    <!--需求: 根据用户名和密码查询用户信息-->
+    <!--
+        select标签: 表示将要执行查询语句 select语句
+            id 当前sql语句的唯一标志, 要求: 跟方法名保持一致
+            resultType 告诉mybatis框架 将返回结果封装到什么对象中
+    -->
+    <!--1 定义user表map-->
+    <resultMap id="userMap" type="User" autoMapping="true">
+        <id property="id" column="id"/>
+
+    </resultMap>
+
+
+    <!--2 定义userinfo表map-->
+    <resultMap id="userinfoMap" type="cn.itcast.pojo.Userinfo" autoMapping="true">
+        <id property="id" column="id"/>
+    </resultMap>
+
+    <!--3 整合第一步和第二步-->
+    <resultMap id="userWithInfoMap" type="User" extends="userMap" autoMapping="true">
+        <!--配置一对一-->
+        <association property="userinfo" resultMap="userinfoMap" autoMapping="true"/>
+    </resultMap>
+
+    <select id="findUserWithInfoById" resultMap="userWithInfoMap">
+          select u.*,ui.* from user u inner join user_info ui on u.id=ui.id
+                where u.id = #{id}
+    </select>
+
+    <!--4 定义订单map-->
+    <resultMap id="orderMap" type="cn.itcast.pojo.Orderform" autoMapping="true">
+        <id property="oid" column="oid"/>
+        <result property="userid" column="user_id"/>
+        <result property="createtime" column="create_time"/>
+    </resultMap>
+    <!--5 建立用户map和订单map的关系-->
+    <resultMap id="userWithOrdersMap" type="User" extends="userMap" autoMapping="true">
+       <association property="orders" resultMap="orderMap" autoMapping="true"/>
+    </resultMap>
+
+    <!--根据用户编号 查询用户信息和用户的订单信息-->
+    <select id="findUserWithOrdersById" resultMap="userWithOrdersMap">
+        select u.*, o.*
+        from user u inner join order_form o on u.id=o.user_id
+        where u.id = #{id}
+    </select>
+</mapper>

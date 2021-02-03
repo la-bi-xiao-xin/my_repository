@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!--namespace 给当前配置文件起一个唯一的别名-->
+<mapper namespace="cn.itcast.mapper.UserMapper">
+    <!--需求: 根据用户名和密码查询用户信息-->
+    <!--
+        select标签: 表示将要执行查询语句 select语句
+            id 当前sql语句的唯一标志, 要求: 跟方法名保持一致
+            resultType 告诉mybatis框架 将返回结果封装到什么对象中
+    -->
+    <select id="findUserByUsernameAndPassword" resultType="cn.itcast.pojo.User">
+        select * from user where username=#{uname} and password=#{upwd}
+    </select>
+    <!--根据id查询用户信息-->
+    <select id="findByid" resultType="cn.itcast.pojo.User">
+        select * from user where id = #{id}
+
+    </select>
+
+    <select id="findAll" resultType="cn.itcast.pojo.User">
+        select * from user
+
+    </select>
+
+    <insert id="insertUser" >
+        insert into user(id, username, password, name, birthday, sex, address)
+        values(null, #{username},#{password},#{name},#{birthday},#{sex},#{address})
+
+    </insert>
+
+    <update id="updateUser">
+         update user
+        set
+            username=#{username},
+            password=#{password},
+            name=#{name},
+            birthday=#{birthday},
+            sex=#{sex},
+            address=#{address}
+        where id = #{id}
+
+    </update>
+
+
+    <delete id="deleteUser">
+        delete from user where id = #{id}
+    </delete>
+
+
+   <!--
+    <select id="findById" resultType="cn.itcast.pojo.User">
+        select * from user where id = #{id}
+    </select>
+-->
+</mapper>

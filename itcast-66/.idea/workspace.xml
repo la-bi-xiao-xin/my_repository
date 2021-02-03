@@ -1,0 +1,1255 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8a803b8c-c26b-4a6f-a1d9-4556edae3feb" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/mybatis-01-xml/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/mybatis-02-duobiao/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/mybatis-03-annotation/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/spring-01-xml/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/spring-02-xmlannotation/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/spring-03-annotation/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/spring-01-xml02/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/spring-02-xmlannotation02/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/spring-03-annotation02/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/spring-01-xml03/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/spring-02-xmlannotation03/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/spring-03-annotation03/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/spring-04-mybatis-xmlAndAnnotation/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/mybatis-04-annotation-duobiao/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/mybatis-01-xml02/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/mybatis-02-duobiao02/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/mybatis-03-annotation02/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/mybatis-04-annotation-duobiao02/target/" />
+    <ignored path="$PROJECT_DIR$/itcast-parent/sring-04-mybatis-xmlAndAnnotation/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-boot-02/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-boot-022/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-boot-0222/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-boot-03/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-boot-04/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-boot-05-springmvc/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-boot-05-springmvc02/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-mybatis-06/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-mybatis-062/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/srping-mybatis-063/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-mybatis-064/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-template-07/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-template-072/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-template-073/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-template-074/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-08/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-082/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/target/" />
+    <ignored path="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-parent/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-parent/user-provider/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-parent/user-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/spring-cloud-parent/eureka-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="springboot_db: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1637121569">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="12" />
+          <entry key="project.open.time.0" value="2" />
+          <entry key="project.open.time.10" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.16" value="1" />
+          <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.24" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.28" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.40" value="2" />
+          <entry key="project.opened" value="19" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="9" />
+          <entry key="html" value="23" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="275" />
+          <entry key="json" value="1" />
+          <entry key="kt" value="1" />
+          <entry key="properties" value="20" />
+          <entry key="sql" value="1" />
+          <entry key="user" value="1" />
+          <entry key="xml" value="93" />
+          <entry key="yml" value="43" />
+          <entry key="yml2" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="9" />
+          <entry key="Database Element" value="1" />
+          <entry key="HTML" value="23" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="275" />
+          <entry key="JSON" value="1" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="20" />
+          <entry key="Scratch" value="1" />
+          <entry key="XML" value="93" />
+          <entry key="YAML" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="4" />
+          <entry key="html" value="69" />
+          <entry key="java" value="13612" />
+          <entry key="kt" value="1" />
+          <entry key="properties" value="83" />
+          <entry key="txt" value="8" />
+          <entry key="xml" value="1511" />
+          <entry key="yml" value="1386" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="69" />
+          <entry key="JAVA" value="13611" />
+          <entry key="Kotlin" value="1" />
+          <entry key="PLAIN_TEXT" value="12" />
+          <entry key="Properties" value="83" />
+          <entry key="SQL" value="36" />
+          <entry key="SpEL" value="1" />
+          <entry key="XML" value="1475" />
+          <entry key="YAML" value="1386" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-consumer/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/java/cn/itcast/UserConsumerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/java/cn/itcast/controller/ConsumerController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="350">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="Kotlin File" />
+        <option value="Singleton" />
+        <option value="yet_unknown" />
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>F</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-template-074/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-template-074/src/main/java/cn/itcast/SpringTemplate074Application.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-template-074/src/main/java/cn/itcast/controller/ConsumerController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-mybatis-064/src/main/java/cn/itcast/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-08/src/main/resources/aplication.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-08/src/main/java/cn/itcast/entity/Student.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-08/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-08/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-08/src/main/java/cn/itcast/pojo/Student.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-08/src/main/java/cn/itcast/repository/StudentRepository.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-08/src/test/java/cn/itcast/repository/StudentRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-082/src/main/java/cn/itcast/pojo/Student.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-082/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-082/src/main/java/cn/itcast/repository/StudentRepository.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-082/src/test/java/cn/itcast/repository/StudentRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/resources/application.yml2" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/java/cn/itcast/entity/Student.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/java/cn/itcast/repository/StudentRepository.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/test/java/cn/itcast/repository/StudentRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/java/cn/itcast/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/java/cn/itcast/pojo/Student.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/java/cn/itcast/controller/StudentController.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-boot-05-springmvc/src/main/java/cn/itcast/controller/AccountController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/java/cn/itcast/repository/StudentRepository.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/test/java/cn/itcast/repository/StudentRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/java/cn/itcast/springdatajpa084/SpringDatajpa084Application.java" />
+        <option value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/java/cn/itcast/SpringDatajpa084Application.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/pojo/User.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/mapper/UserMapper.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/src/test/java/cn/itcast/mapper/UserMapperTest.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/service/UserService.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/src/test/java/cn/itcast/service/UserServiceImplTest.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/resources/index.html" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/eureka-server/src/main/java/cn/itcast/EurekaServerApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/UserProviderApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/eureka-server/src/main/resources/application-eureka1.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/eureka-server/src/main/resources/application-eureka2.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/eureka-server/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/java/cn/itcast/UserConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/java/cn/itcast/controller/ConsumerController.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="user-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="user-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="user-provider" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="junit:junit:4.12" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="709" />
+    <option name="y" value="206" />
+    <option name="width" value="538" />
+    <option name="height" value="692" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>CodeSpring CoreSpring</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>SpringJavaInjectionPointsAutowiringInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <sortByType ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="itcast-66" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-66" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="user-consumer" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-66" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="user-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name=".mvn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-66" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="user-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-66" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="user-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-66" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="user-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-66" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="user-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="itcast-66" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-parent" type="462c0819:PsiDirectoryNode" />
+              <item name="user-consumer" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="ExpandSpringBootSpringBootSettingsPanel" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598972094839" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/resources/application.yml2" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/resources/application.yml2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.itcast.service" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="cn.itcast.service" />
+      <recent name="cn.itcast.mapper" />
+      <recent name="cn.itcast.repository" />
+      <recent name="cn.itcast.dao" />
+      <recent name="cn.itcast.service.impl" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cn.itcast" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\idea_project\itcast-66\spring-cloud-parent\eureka-server\src\main\resources" />
+      <recent name="F:\idea_project\itcast-66\spring-boot-parent\spring-datajpa-083\src\main\resources\static" />
+      <recent name="F:\idea_project\itcast-66\itcast-parent\sring-04-mybatis-xmlAndAnnotation\src\main\resources" />
+      <recent name="F:\idea_project\itcast-66\itcast-parent\mybatis-01-xml02\src\main\java\cn\itcast\pojo" />
+      <recent name="F:\idea_project\itcast-66\itcast-parent\mybatis-01-xml02\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.itcast.pojo" />
+      <recent name="cn.itcast.controller" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\idea_project\itcast-66\spring-cloud-parent\user-provider\src\main\resources\static" />
+      <recent name="F:\idea_project\itcast-66\itcast-parent\spring-01-xml02\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserProviderApplication-9093">
+    <configuration name="StudentRepositoryTest.demo01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-datajpa-084" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.repository" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.repository.StudentRepositoryTest" />
+      <option name="METHOD_NAME" value="demo01" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentRepositoryTest.findByIdIn (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-datajpa-083" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.repository" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.repository.StudentRepositoryTest" />
+      <option name="METHOD_NAME" value="findByIdIn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mapper" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserMapperTest.findById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.mapper.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.mapper" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.mapper.UserMapperTest" />
+      <option name="METHOD_NAME" value="findById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceImplTest.findById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="user-provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.itcast.service.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.itcast.service" />
+      <option name="MAIN_CLASS_NAME" value="cn.itcast.service.UserServiceImplTest" />
+      <option name="METHOD_NAME" value="findById" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication-eureka1-8761" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="eureka1" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication-eureka2-8762" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.EurekaServerApplication" />
+      <option name="ACTIVE_PROFILES" value="eureka2" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="eureka-server" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.UserConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserProviderApplication-9091" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.UserProviderApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=9091" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserProviderApplication-9092" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.UserProviderApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=9092" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserProviderApplication-9093" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.itcast.UserProviderApplication" />
+      <option name="PROGRAM_PARAMETERS" value="--server.port=9093" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication-eureka2-8762" />
+      <item itemvalue="Spring Boot.EurekaServerApplication-eureka1-8761" />
+      <item itemvalue="Spring Boot.UserConsumerApplication" />
+      <item itemvalue="Spring Boot.UserProviderApplication-9091" />
+      <item itemvalue="Spring Boot.UserProviderApplication-9093" />
+      <item itemvalue="Spring Boot.UserProviderApplication-9092" />
+      <item itemvalue="JUnit.StudentRepositoryTest.findByIdIn (2)" />
+      <item itemvalue="JUnit.StudentRepositoryTest.demo01" />
+      <item itemvalue="JUnit.UserMapperTest.findAll" />
+      <item itemvalue="JUnit.UserServiceImplTest.findById" />
+      <item itemvalue="JUnit.UserMapperTest.findById" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UserServiceImplTest.findById" />
+        <item itemvalue="JUnit.UserMapperTest.findById" />
+        <item itemvalue="JUnit.UserMapperTest.findAll" />
+        <item itemvalue="JUnit.StudentRepositoryTest.demo01" />
+        <item itemvalue="JUnit.StudentRepositoryTest.findByIdIn (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8a803b8c-c26b-4a6f-a1d9-4556edae3feb" name="Default Changelist" comment="" />
+      <created>1598361646498</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598361646498</updated>
+      <workItem from="1598361647900" duration="9386000" />
+      <workItem from="1598400695262" duration="3140000" />
+      <workItem from="1598410998229" duration="15241000" />
+      <workItem from="1598491905453" duration="17560000" />
+      <workItem from="1598517137617" duration="12649000" />
+      <workItem from="1598538902224" duration="698000" />
+      <workItem from="1598573331271" duration="24261000" />
+      <workItem from="1598659903946" duration="20383000" />
+      <workItem from="1598704605250" duration="5340000" />
+      <workItem from="1598749781084" duration="4334000" />
+      <workItem from="1598754524964" duration="100000" />
+      <workItem from="1598754654910" duration="22096000" />
+      <workItem from="1598833964156" duration="15135000" />
+      <workItem from="1598881730979" duration="1828000" />
+      <workItem from="1598952851284" duration="776000" />
+      <workItem from="1598954238863" duration="77000" />
+      <workItem from="1598959772134" duration="767000" />
+      <workItem from="1598961073229" duration="5000" />
+      <workItem from="1598967793603" duration="3764000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="StudentRepositoryTest_findByIdIn_(2) - 2020.08.30 at 16h 02m 47s.xml">
+      <configuration name="StudentRepositoryTest.findByIdIn (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_save_(2) - 2020.08.30 at 17h 11m 18s.xml">
+      <configuration name="StudentRepositoryTest.save (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_findByIdIn_(2) - 2020.08.30 at 17h 19m 39s.xml">
+      <configuration name="StudentRepositoryTest.findByIdIn (2)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_demo01 - 2020.08.31 at 18h 09m 08s.xml">
+      <configuration name="StudentRepositoryTest.demo01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_demo01 - 2020.08.31 at 18h 10m 17s.xml">
+      <configuration name="StudentRepositoryTest.demo01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StudentRepositoryTest_demo01 - 2020.08.31 at 18h 12m 06s.xml">
+      <configuration name="StudentRepositoryTest.demo01" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findAll - 2020.08.31 at 19h 03m 14s.xml">
+      <configuration name="UserMapperTest.findAll" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_findById - 2020.08.31 at 19h 16m 05s.xml">
+      <configuration name="UserServiceImplTest.findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserMapperTest_findById - 2020.08.31 at 19h 28m 37s.xml">
+      <configuration name="UserMapperTest.findById" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserServiceImplTest_findById - 2020.08.31 at 19h 29m 01s.xml">
+      <configuration name="UserServiceImplTest.findById" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="157540000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49574107" visible="true" weight="0.22390318" />
+      <window_info id="Image Layers" order="1" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.50425893" side_tool="true" weight="0.301059" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Console" order="0" weight="0.32879046" />
+      <window_info anchor="bottom" id="Message" order="1" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.5877342" />
+      <window_info anchor="bottom" id="Debug" order="4" weight="0.39863715" />
+      <window_info anchor="bottom" id="Cvs" order="5" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.66269165" />
+      <window_info anchor="bottom" id="Spring" order="13" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.5229983" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.14447807" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4974093" visible="true" weight="0.29198185" />
+      <window_info id="Structure" order="1" sideWeight="0.50259066" side_tool="true" weight="0.28744328" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32879046" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.008517887" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32879046" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.66269165" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.65587735" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/itcast-parent/mybatis-01-xml02/src/test/java/cn/itcast/mapper/UserMapperTest.java</url>
+          <line>87</line>
+          <properties class="cn.itcast.mapper.UserMapperTest" method="deleteUserTest">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/itcast-parent/mybatis-01-xml02/src/test/java/cn/itcast/mapper/UserMapperTest.java</url>
+          <line>88</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-082/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-082/src/main/java/cn/itcast/repository/StudentRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="13" column="48" selection-start-line="13" selection-start-column="41" selection-end-line="13" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-082/src/main/java/cn/itcast/SpringDatajpa082Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-082/src/test/java/cn/itcast/repository/StudentRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="37" column="38" selection-start-line="37" selection-start-column="38" selection-end-line="37" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/resources/application.yml2" />
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/java/cn/itcast/entity/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/java/cn/itcast/repository/StudentRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/test/java/cn/itcast/repository/StudentRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="35" column="38" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/test/java/cn/itcast/SpringDatajpa083ApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/java/cn/itcast/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/java/cn/itcast/SpringDatajpa083Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-083/src/main/java/cn/itcast/controller/StudentController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-05-springmvc/src/main/java/cn/itcast/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-05-springmvc/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="41" column="7" selection-start-line="41" selection-start-column="7" selection-end-line="41" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-05-springmvc/src/main/java/cn/itcast/controller/AccountController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/java/cn/itcast/pojo/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="22" lean-forward="true" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-boot-05-springmvc02/src/main/java/cn/itcast/SpringBoot05Springmvc02Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/java/cn/itcast/repository/StudentRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/main/java/cn/itcast/SpringDatajpa084Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="6" column="42" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-boot-parent/spring-datajpa-084/src/test/java/cn/itcast/repository/StudentRepositoryTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="26" lean-forward="true" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/mapper/UserMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/src/test/java/cn/itcast/mapper/UserMapperTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="29" column="24" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="28" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/src/test/java/cn/itcast/service/UserServiceImplTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="28" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="14" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/java/cn/itcast/pojo/User.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/eureka-server/src/main/java/cn/itcast/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/eureka-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="61" column="18" selection-start-line="61" selection-start-column="18" selection-end-line="61" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/UserProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="8" column="2" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/eureka-server/src/main/resources/application-eureka2.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="21" column="75" selection-start-line="21" selection-start-column="75" selection-end-line="21" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="17" column="75" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/eureka-server/src/main/resources/application-eureka1.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/eureka-server/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="284">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-provider/src/main/java/cn/itcast/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="23" column="42" selection-start-line="23" selection-start-column="42" selection-end-line="23" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.15.RELEASE/spring-web-5.1.15.RELEASE.jar!/org/springframework/web/bind/annotation/RequestMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="18" column="18" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/spring-cloud-parent.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/com/netflix/hystrix/hystrix-javanica/1.5.18/hystrix-javanica-1.5.18.jar!/com/netflix/hystrix/contrib/javanica/annotation/HystrixCommand.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="25" column="25" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/resources/static/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/springframework/spring-web/5.1.15.RELEASE/spring-web-5.1.15.RELEASE.jar!/org/springframework/web/client/RestTemplate.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="184" column="20" selection-start-line="184" selection-start-column="20" selection-end-line="184" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/java/cn/itcast/controller/ConsumerController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-consumer/src/main/java/cn/itcast/UserConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="12" column="31" lean-forward="true" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-cloud-parent/user-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>spring-04-mybatis-xmlAndAnnotation</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.protobuf:protobuf-java:3.6.1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

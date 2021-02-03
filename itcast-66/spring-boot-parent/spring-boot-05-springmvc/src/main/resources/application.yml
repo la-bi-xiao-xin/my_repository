@@ -1,0 +1,8 @@
+# 配置日志级别控制
+logging:
+  level:
+    cn.itcast: debug
+    org.springframework: info
+# 修改服务器端口号
+server:
+  port: 80

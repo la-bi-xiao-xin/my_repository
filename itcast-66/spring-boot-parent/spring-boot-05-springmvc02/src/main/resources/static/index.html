@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>heima-springboot 项目首页</h1>
+<fieldset>
+    <h3>需求1: 获取get方式表单的数据</h3>
+    <form action="/account/show01" method="get">
+        <input type="text" name="uid" placeholder="用户编号"/>
+        <input type="text" name="username" placeholder="请输入用户名"/>
+        <input type="text" name="isVIP" placeholder="是否是VIP: 1是 0不是"/> <br/>
+        <input type="submit" value="提交"/>
+    </form>
+</fieldset>
+<fieldset>
+    <h3>需求3: 获取路径中的参数</h3>
+    <a href="/account/show03/张三/李四/1000">测试</a>
+</fieldset>
+
+<fieldset>
+    <h3>需求4: 直接形参声明pojo即可接收</h3>
+    <a href="/account/show04?id=1001&name=zhangsan&money=1000">测试</a>
+</fieldset>
+
+</body>
+</html>

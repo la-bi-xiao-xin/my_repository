@@ -1,0 +1,21 @@
+server:
+  port: 8082
+# 普通类型 key + 冒号 + 空格 + 值
+personName: zhnagsan
+
+# 对象类型
+person:
+  name: 于谦
+  age: 51
+  sex: 男
+  # 爱好
+  likes:
+  - 抽烟
+  - 喝酒
+  - 烫头
+  # 集合
+  bookes:
+  - name: 天龙八部
+    writer: 金庸
+  - name: 小李飞刀
+    writer: 古龙

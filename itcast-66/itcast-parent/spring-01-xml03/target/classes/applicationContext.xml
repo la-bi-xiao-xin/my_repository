@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+    <!--将dao实现类交给spring管理-->
+    <bean id="accountDaoImpl" class="cn.itcast.dao.impl.AccountDaoImpl">
+        <property name="bankName" value="农业银行"/>
+    </bean>
+
+    <bean id="accountServiceImpl" class="cn.itcast.service.impl.AccountServiceImpl">
+        <property name="accountDao" ref="accountDaoImpl"/>
+    </bean>
+</beans>

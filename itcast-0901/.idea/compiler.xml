@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-server" />
+        <module name="gateway-server3" />
+        <module name="gatway-server" />
+        <module name="gatway-server2" />
+        <module name="sring-cloud-parent" />
+        <module name="user-condumer-feign2" />
+        <module name="user-consumer" />
+        <module name="user-consumer-feign" />
+        <module name="user-consumer-feign3" />
+        <module name="user-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.8" />
+      <module name="gateway-server3" target="1.8" />
+      <module name="gatway-server" target="1.8" />
+      <module name="gatway-server2" target="1.8" />
+      <module name="spring-boot-01" target="1.8" />
+      <module name="sring-cloud-parent" target="1.5" />
+      <module name="user-condumer-feign2" target="1.8" />
+      <module name="user-consumer" target="1.8" />
+      <module name="user-consumer-feign" target="1.8" />
+      <module name="user-consumer-feign3" target="1.8" />
+      <module name="user-provider" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+server:
+  port: 8081
+
+
+spring:
+  application:
+    name: user-consumer
+
+
+    # 指定向哪台 eureka服务端注册
+eureka:
+  client:
+    service-url:
+      defaultZone:  http://eureka1:8761/eureka,http://eureka2:8762/eureka
+  instance:
+    # 是否显示ip地址
+    prefer-ip-address: true
+    instance-id: ${spring.cloud.client.ip-address}:${server.port} # ip:port
