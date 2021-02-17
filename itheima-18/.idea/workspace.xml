@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3c6e48ae-ce24-4ac6-85aa-135b08e8df64" name="Default Changelist" comment="" />
+    <list default="true" id="3c6e48ae-ce24-4ac6-85aa-135b08e8df64" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc_demo/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc_demo/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc_demo/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc_demo/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jdbc_demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../jdbc_demo/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/springboot_parent/target/" />
     <ignored path="$PROJECT_DIR$/springboot_parent/springboot01/target/" />
     <ignored path="$PROJECT_DIR$/springboot_parent/springboot02/target/" />
@@ -19,10 +24,11 @@
     <session id="-984594865">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="5" />
+          <entry key="project.closed" value="6" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.110" value="1" />
+          <entry key="project.open.time.128" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.225" value="1" />
           <entry key="project.open.time.24" value="1" />
@@ -38,7 +44,8 @@
           <entry key="project.open.time.92" value="1" />
           <entry key="project.open.time.93" value="2" />
           <entry key="project.open.time.95" value="1" />
-          <entry key="project.opened" value="22" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="24" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -202,6 +209,9 @@
       <find>lom</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -264,7 +274,7 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="564" />
@@ -293,11 +303,14 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -310,8 +323,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -471,6 +482,8 @@
       <workItem from="1612189667612" duration="845000" />
       <workItem from="1612278339796" duration="586000" />
       <workItem from="1612318730158" duration="595000" />
+      <workItem from="1612445294619" duration="3435000" />
+      <workItem from="1612488194764" duration="1086000" />
     </task>
     <servers />
   </component>
@@ -495,12 +508,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64746000" />
+    <option name="totallyTimeSpent" value="69267000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="564" height="617" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.33730158" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49744463" visible="true" weight="0.052950077" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -521,7 +534,7 @@
       <window_info anchor="bottom" id="Messages" order="10" weight="0.32879046" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="Run Dashboard" order="14" weight="0.3850085" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
