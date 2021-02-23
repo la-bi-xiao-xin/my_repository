@@ -39,6 +39,12 @@
     </repositories>
 
     <dependencies>
+        <!--Druid连接池-->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>druid</artifactId>
+            <version>1.0.9</version>
+        </dependency>
         <!--lombook依赖-->
         <dependency>
             <groupId>org.projectlombok</groupId>
